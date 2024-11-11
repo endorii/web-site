@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/web-site/static/css/main.0331dd5e.css",
+    "main.js": "/web-site/static/js/main.cedf1d44.js",
+    "static/media/Clock.png": "/web-site/static/media/Clock.68046c7af89f9ada9a48.png",
+    "static/media/Phone.png": "/web-site/static/media/Phone.11c2f4b490a5dd9b60ff.png",
+    "static/media/AppStore.svg": "/web-site/static/media/AppStore.d1195ac092510cb7cb056fda0dd8862e.svg",
+    "static/media/AppStore(white).svg": "/web-site/static/media/AppStore(white).2d06401e61a274507cbb62bdfe8c5b02.svg",
+    "static/media/Google.svg": "/web-site/static/media/Google.2d7818e20a5a869ba930410775a0b6cb.svg",
+    "static/media/PlayMarket.svg": "/web-site/static/media/PlayMarket.3f1a89678e4f04c34258c9c656f60a56.svg",
+    "static/media/PlayMarket(white).svg": "/web-site/static/media/PlayMarket(white).9f8d4dbc9fb0bb6b1eefac565d0b81f6.svg",
+    "index.html": "/web-site/index.html",
+    "static/media/Linkedin.svg": "/web-site/static/media/Linkedin.1beb46e662b8663e61bb8f6c768a47a7.svg",
+    "static/media/Facebook.svg": "/web-site/static/media/Facebook.1800bce96ad64868d318072e514a6268.svg",
+    "static/media/Burger.svg": "/web-site/static/media/Burger.c20eba8940d7a0074ae4fc9889d4ddf1.svg",
+    "main.0331dd5e.css.map": "/web-site/static/css/main.0331dd5e.css.map",
+    "main.cedf1d44.js.map": "/web-site/static/js/main.cedf1d44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0331dd5e.css",
+    "static/js/main.cedf1d44.js"
+  ]
+}
