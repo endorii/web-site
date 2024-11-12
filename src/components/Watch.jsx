@@ -92,7 +92,7 @@ const Watch = () => {
                         value={userEmail}
                         onChange={handleChange}
                         placeholder="Email"
-                        className="w-full sm:w-[280px] border border-gray-300 rounded px-4 py-2 focus:outline-none focus:ring-2 focus:ring-yellow-400"
+                        className="w-full input sm:w-[280px] border border-gray-300 rounded px-4 py-2 focus:outline-none focus:ring-2 focus:ring-yellow-400"
                     />
                     <button
                         type="submit"
